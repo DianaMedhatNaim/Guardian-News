@@ -11,9 +11,8 @@ ListView.
 Loaders.
 HttpURLConnection.
 # Screenshots
-<img src="Screenshots/Screenshot_20190429-200755.png" width="150">
-<img src="Screenshots/Screenshot_20190429-200849.png" width="150">
-<img src="Screenshots/Screenshot_20190429-200904.png" width="150">
+<img src="Screenshots/Screenshot_20190429-200755.png" width="200"><img src="Screenshots/Screenshot_20190429-200849.png" width="200">
+<img src="Screenshots/Screenshot_20190429-200904.png" width="200">
 
 
 
