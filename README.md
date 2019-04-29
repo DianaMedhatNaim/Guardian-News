@@ -11,9 +11,9 @@ HttpURLConnection.
 # Description
 This app will help you to read interesting news from The Guardian website using their API.
 # Screenshots
-<img src="Screenshots/Screenshot_20190429-200904.png"
-<img src="Screenshots/Screenshot_20190429-200849.png"
-<img src="Screenshots/Screenshot_20190429-200755.png"
+<img src="Screenshots/Screenshot_20190429-200904.png">
+<img src="Screenshots/Screenshot_20190429-200849.png">
+<img src="Screenshots/Screenshot_20190429-200755.png">
 
 
 
