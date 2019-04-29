@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Guardian News</string>
+    <string name="section_holder">Life and style</string>
+    <string name="Writer">Writers</string>
+    <string name="title"> very Long statement title that should take about 3 lines of text or more </string>
+    <string name="date">Mar 28, 2019</string>
+    <string name="time">8:00 AM</string>
+    <string name="No_news_found">this topic is not found.</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="settings_menu_item">Guardian Settings</string>
+    <string name="settings_title">Guardian News Settings</string>
+    <string name="settings_keyword">search</string>
+    <string name="settings_searchWord" translatable="false">keyword</string>
+    <string name="settings_defaultWord" translatable="false">0</string></resources>
+
